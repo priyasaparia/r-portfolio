@@ -1,14 +1,8 @@
-
-import './App.css'
+/* eslint-disable no-unused-vars */
+import styles from "./App.module.css";
 
 function App() {
-  
-
-  return (
-    <>
-      hello world
-    </>
-  )
+return <div> hello world</div>;
 }
 
-export default App
+export default App;
